@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayushi Sambyal (@ayushisambyal)
-- 👀 I’m interested in Technology, Data Science & Competitive coding 
-- 🌱 I’m currently learning Competitive coding & Machine Learning 
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in Data Analysis adn DSA
+- 🌱 I’m currently learning Competitive coding 
+- 💞️ I’m looking to companies to intern in 
 - 📫 How to reach me http://bitly.ws/s34K
 
 <!---
